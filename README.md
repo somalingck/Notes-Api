@@ -1,6 +1,3 @@
-# Note Taking API
-
-[![Maintainability](https://api.codeclimate.com/v1/badges/fcf3ca54d90836a6a52d/maintainability)](https://codeclimate.com/github/SoniaRMK/ToDo-NodeJS/maintainability)
 
 ### Project Description:
 A simple Note Taking API using NodeJS, ExpressJS and MongoDB. It is a Rest APIs for creating, listing, editing and deleting a Note.
